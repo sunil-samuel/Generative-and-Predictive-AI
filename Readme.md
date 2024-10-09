@@ -87,6 +87,7 @@ The code is written in and tested using Python (3.12.3) and uses the Model-View-
 >
 > To disable an LLM, open `transformer.py` and set pipelines to `False`.
 >
+
 ```python
 self.__pipelines = {
     # This is disabled given the `if False`
@@ -99,6 +100,7 @@ self.__pipelines = {
     ) if True else None,
     ...
 }
+```
 
 ### Adding Models
 
@@ -113,7 +115,7 @@ Additional models can be added by :
 To run the application:
 
 ```sh
- /<my virtual environment>/bin/python "/<dir to code>/ui_interface.py"
+sh>/<my virtual environment>/bin/python "/<dir to code>/ui_interface.py"
 ```
 
 Open a browser to the following URL:
