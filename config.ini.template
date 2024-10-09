@@ -1,0 +1,9 @@
+# NOTE - Rename this file to config.ini and update the tokens
+
+# https://huggingface.co/settings/tokens
+[huggingface]
+Token = hf_1lasdj3l23lkjsfasdkDlsdBdankduwkef
+
+# https://aistudio.google.com/app/apikey
+[google]
+Token = AIaslkdfadC723234kDfklFasljklfUsfjfg12j

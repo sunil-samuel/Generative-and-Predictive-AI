@@ -1,0 +1,9 @@
+**/__pycache__
+.vscode
+**/__pycache__
+*.wav
+flagged
+**/flagged
+offload
+**/.ipynb_checkpoints
+config.ini
